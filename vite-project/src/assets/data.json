@@ -1,0 +1,38 @@
+{
+	"eventsList": [
+		{
+			"eventId": "#1",
+			"title": "Opensource Event",
+			"mentorName": "Sriram",
+			"category": "Technology",
+			"DateAndTime": "16-01-2024 7:00PM",
+			"location": "Online",
+			"eventType": "Live",
+          "Highlight":"True",
+          "Button":"Register Now"
+		},
+		{
+			"eventId": "#2",
+			"title": "DSA Event",
+			"mentorName": "Aditya",
+			"category": "Technology",
+			"DateAndTime": "11-01-2024 7:00PM",
+			"location": "Online",
+			"eventType": "Pre recorded",
+          "Highlight":"False",
+          "Button":"Watch Now"
+		},
+        {
+			"eventId": "#3",
+			"title": "Oops Event",
+			"mentorName": "Aakash",
+			"category": "Technology",
+			"DateAndTime": "11-01-2024 7:00PM",
+			"location": "Online",
+			"eventType": "Pre recorded",
+          "Highlight":"False",
+          "Button":"Watch Now"
+		}
+        
+	]
+}
